@@ -58,5 +58,5 @@ Customer churn is a major problem in the telecom industry, especially among mont
 
 `Customer_Churn_Analysis.ipynb` | Python code for data cleaning and EDA 
 `cleaned_telco_data.csv` | Clean dataset used for Power BI 
-`churn_dashboard.pbix` | Power BI file with interactive visuals 
+`churn dashboard.pbix` | Power BI file with interactive visuals 
 `README.md` | Project overview and documentation 
